@@ -28,5 +28,5 @@ Emora AI'yi App Store'dan indirin ve AI arkadaşınızla tanışın!
 
 ## 📄 Lisans
 
-© 2024 Emora AI. Tüm hakları saklıdır.
+© 2025 Emora AI. Tüm hakları saklıdır.
 
